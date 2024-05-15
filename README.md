@@ -13,7 +13,7 @@ To use the Universal Base Converter, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the `base_converter.py` script.
+3. Run the `PROBLEM1.py` script.
 
 ## Usage
 
