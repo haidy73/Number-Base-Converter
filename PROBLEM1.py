@@ -8,7 +8,7 @@ while True:
     if menu1_result == "B":
         break
 
-    # Show an error message and reask the user if the user choose an in valid choice
+    # Show an error message and reask the user if the user choose an invalid choice
     while menu1_result != "A" and menu1_result != "B":
         print("please select a valid choice")
         menu1_result = input("A) insert a new number\nB) Exit program\n").upper()
